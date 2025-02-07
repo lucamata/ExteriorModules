@@ -1,5 +1,5 @@
 # ExteriorModules
-A Macaulay2 package for working with modules over exterior algebra. For more details, please consult this [paper](https://msp.org/jsag/2021/11-1/p08.xhtml).
+A Macaulay2 package for working with modules over an exterior algebra. For more details, please consult this [paper](https://msp.org/jsag/2021/11-1/p08.xhtml).
 
 Introduction
 ===================
